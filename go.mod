@@ -1,4 +1,4 @@
-module templ-icons
+module github.com/nesbyte/templ-icons
 
 go 1.25.0
 

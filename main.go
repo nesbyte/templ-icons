@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"templ-icons/generate"
+	"github.com/nesbyte/templ-icons/generate"
 )
 
 func main() {
